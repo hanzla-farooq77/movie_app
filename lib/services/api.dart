@@ -1,5 +1,5 @@
 class ApiEndpoints {
-  static const String apiKey = '3b64e39ad1fc34df915f1a4022869b20';
+  static const String apiKey = '36920';
 
   static const String baseUrl = 'https://api.themoviedb.org/3';
 
